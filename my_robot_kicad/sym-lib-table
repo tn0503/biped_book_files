@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name my_robot-rescue)(type Legacy)(uri ${KIPRJMOD}/my_robot-rescue.lib)(options "")(descr ""))
+  (lib (name My_Library)(type Legacy)(uri ${KIPRJMOD}/My_Library.lib)(options "")(descr ""))
+)
